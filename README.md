@@ -20,8 +20,8 @@ Traumatic injuries and conditions like SCIs can impair nerve signal transmission
 ## Installation
 Clone the repository and install the required packages:
 ```bash
-git clone https://github.com/yuxinl915/ASR_group_proj.git
-cd ASR_group_proj
+git clone https://github.com/yuxinl915/02620_GRP8.git
+cd 02620_GRP8
 pip install -r requirements.txt
 
 
