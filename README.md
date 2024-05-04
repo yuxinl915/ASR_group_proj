@@ -24,4 +24,9 @@ git clone https://github.com/yuxinl915/ASR_group_proj.git
 cd ASR_group_proj
 pip install -r requirements.txt
 
+## To Utilize the code
+data_analysis_main.ipynb contains the implementations of feature processing, model selection, all active learning strategies.
+backtrace.ipynb contains the explorations of the selected points' characteristics.
+
+
 
