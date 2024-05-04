@@ -23,7 +23,7 @@ Clone the repository and install the required packages:
 git clone https://github.com/yuxinl915/ASR_group_proj.git
 cd ASR_group_proj
 conda env create -n myEnv -f env.yaml
-conda active myEnv
+conda activate myEnv
 ```
 
 ## To Run the Code
