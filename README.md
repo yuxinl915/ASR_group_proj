@@ -25,7 +25,7 @@ cd ASR_group_proj
 pip install -r requirements.txt
 ```
 
-## To Utilize the code
+## To Run the Code
 data_analysis_main.ipynb contains the implementations of feature processing, model selection, all active learning strategies.
 backtrace.ipynb contains the explorations of the selected points' characteristics.
 
